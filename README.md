@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shadhani Rushanthi</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm">
+<img align="right" alt="Coding" width="400" src="">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwoman-computer-programmer&psig=AOvVaw2DNlY3rWcXK30hd070QpG-&ust=1679579908819000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCrqLvZ7_0CFQAAAAAdAAAAABAh" alt="shadhani-rushanthi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadhani-rushanthi&label=Profile%20views&color=0e75b6&style=flat" alt="shadhani-rushanthi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadhani-rushanthi" alt="shadhani-rushanthi" /></a> </p>
 
